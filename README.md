@@ -1,2 +1,2 @@
-# scoop-bins
+# scoop-bin
 Another scoopy bucket 
